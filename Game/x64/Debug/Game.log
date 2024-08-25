@@ -1,0 +1,10 @@
+﻿  win32_platform.cpp
+F:\Kabi\C++ course\Game\Game\win32_platform.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Kabi\C++ course\Game\Game\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Kabi\C++ course\Game\Game\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Kabi\C++ course\Game\Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Kabi\C++ course\Game\Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Kabi\C++ course\Game\Game\win32_platform.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Kabi\C++ course\Game\Game\game.cpp(103,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Kabi\C++ course\Game\Game\game.cpp(110,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Game.vcxproj -> F:\Kabi\C++ course\Game\x64\Debug\Game.exe
